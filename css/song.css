@@ -1,0 +1,217 @@
+#wholebody {
+    cursor: url(https://cur.cursors-4u.net/holidays/hol-2/hol137.ani), url(https://cur.cursors-4u.net/holidays/hol-2/hol137.png), auto !important;
+    /*cursor: url(https://cur.cursors-4u.net/holidays/hol-4/hol317.cur), auto !important;*/
+    background: url(media/90sbackground.jpg) rgb(176, 14, 246);
+    background: linear-gradient(rgb(176, 14, 246), red);
+    border: white dotted 7px;
+}
+
+#incase {
+    position: relative;
+    z-index: 5;
+    padding-left: 10%;
+    margin-top: 3%;
+    padding-bottom: 50px;
+}
+
+#homebutton {
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+#atbg {
+    position: absolute;
+    margin-left: 60%;
+    z-index: 1;
+    border: .5cm rgb(255, 0, 157) dashed;
+}
+
+#rose {
+    position: absolute;
+    margin-left: 83%;
+    margin-bottom: 3%;
+    z-index: 2;
+}
+
+#eartheart {
+    position: absolute;
+    flex: 1;
+    padding: 10px 10px 10px 10px;
+}
+
+#frog {
+    position: relative;
+    margin-left: 50%;
+}
+
+#besame {
+    position: absolute;
+}
+
+#hotncold {
+    position: relative;
+    margin-left: 55%;
+    margin-top: 3%;
+    z-index: 3;
+}
+
+#hotnearth {
+    display: flex;
+}
+
+#calmtext {
+    z-index: 3;
+    margin-left: 10%;
+}
+
+#justfeelcalm {
+    padding-bottom: 10%;
+}
+
+#jumpin2 {
+    float: right;
+}
+
+#pandorasbox {
+    padding-bottom: 10%;
+}
+
+#keepu2myself {
+    float: right;
+    margin-right: 10%;
+    padding-bottom: 60px;
+}
+
+#colorgreen {
+    float: right;
+    padding-right: 15px;
+    padding-bottom: 10%;
+}
+
+#barelyanexception {
+    padding-bottom: 45px;
+    padding-left: 15%;
+}
+
+#mixedsignals {
+    padding-left: 20%;
+    padding-bottom: 5%;
+    padding-top: 55px;
+}
+
+#conditionalpoet {
+    margin-top: 60px;
+    margin-left: 150px;
+}
+
+#tellme {
+    padding-top: 3%;
+    padding-left: 50%;
+}
+
+#besame,
+audio::-webkit-media-controls-panel {
+    background-color: rgb(247, 3, 73);
+}
+
+#besame,
+audio::-webkit-media-controls-mute-button {
+    background-color: rgb(87, 118, 164);
+    border-radius: 6%;
+}
+
+#besame,
+audio::-webkit-media-controls-play-button {
+    background-color: rgba(126, 251, 255, 0.932);
+    border-radius: 50%;
+}
+
+#carad {
+    padding-left: 25%;
+    padding-bottom: 80px;
+}
+
+#spinningheart {
+    float: right;
+    padding-right: 70px;
+}
+
+#newdisco {
+    margin-left: 20%;
+}
+
+#disco {
+    border: white solid 3px;
+}
+
+#new {
+    z-index: 3;
+    padding-left: 10px;
+}
+
+#shark {
+    margin-left: 30%;
+}
+
+#duckface {
+    margin-left: 100px;
+    padding-bottom: 100px;
+}
+
+#alheimad {
+    padding-left: 80px;
+}
+
+#rosepic {
+    border: white solid 4px;
+    float: right;
+    margin-right: 50px;
+}
+
+#cameraflash {
+    padding-left: 40%;
+}
+
+#mailbox {
+    float: left;
+    margin-left: 200px;
+    padding-top: 50px;
+}
+
+#computerheart {
+    padding-right: 170px;
+}
+
+#heartdunk {
+    margin-left: 350px;
+    margin-top: 65px;
+    border: solid black 4px;
+}
+
+#casinoad {
+    margin-left: 20%;
+    padding-bottom: 90px;
+}
+
+#dino {
+    padding-bottom: 1%;
+    padding-left: 80px;
+}
+
+#polaroid {
+    padding-left: 10%;
+    padding-bottom: 120px;
+}
+
+#dragonline {
+    padding-left: 30%;
+    padding-bottom: 85px;
+}
+
+#cd {
+    padding-left: 5%;
+}
+
+#perfectsense {
+    padding-left: 55%;
+}
